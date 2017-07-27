@@ -5,6 +5,6 @@ Attach This Script/Component to a UI Text object and edit the Url variable IN TH
 
 Then Place the Text Object Where You Like.
 
-THE OBJECT WILL DISPLAY NO TEXT IF YOUR INTERNET IS OFF.
+The 'Text When Failed' Attribute indicates the text displayed when the game cant get access to the internet. You can edit this directly to change the failed text.
 
 CURRENTLY ONLY SUPPORTS .TXT FILES
